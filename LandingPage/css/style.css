@@ -1,0 +1,12 @@
+body {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins';
+}
+
+.container_apresentacao {
+    color: #3F9CB1;
+}
